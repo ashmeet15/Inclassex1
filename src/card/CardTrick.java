@@ -60,6 +60,7 @@ public class CardTrick {
                 break;
                 }
             }
+            else{System.out.println("Wrong Guess")
         }
         
         
